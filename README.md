@@ -22,3 +22,7 @@ The project uses standard, built-in Python 3 libraries, meaning no external depe
 1. Clone this repository to your local computer:
    ```bash
    git clone [https://github.com/samaladyasa/Syntecxhub_Simple_Rule-Based_Chatbot.git](https://github.com/samaladyasa/Syntecxhub_Simple_Rule-Based_Chatbot.git)
+## Find attached zip File with Demonstration
+
+   [Project2_AI_chatbot_Sytecxhub.zip](https://github.com/user-attachments/files/28280481/Project2_AI_chatbot_Sytecxhub.zip)
+
