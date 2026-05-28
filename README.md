@@ -1,13 +1,13 @@
 # Syntecxhub_Simple_Rule-Based_Chatbot
 
 ## 📌 Project Overview
-[cite_start]This repository contains **AI Assist**, an interactive, rule-based desktop chatbot application developed as part of the Week 2 Task for the Syntecxhub Artificial Intelligence Internship program[cite: 15, 27, 28]. 
+[cite_start]This repository contains **AI Assist**, an interactive, rule-based desktop chatbot application developed as part of the Week 2 Task for the Syntecxhub Artificial Intelligence Internship program.
 
 The application is built entirely in Python and provides a clean Graphical User Interface (GUI) alongside a pattern-matching conversational engine and an arithmetic parser to handle basic mathematical operations.
 
 ## 🚀 Key Features
 * **Interactive GUI Layout:** Built with `tkinter` using a scrollable text area (`ScrolledText`) to display the live dialogue history dynamically.
-* [cite_start]**Basic Arithmetic Engine:** Automatically detects and extracts numbers from natural language to compute operations like addition (`+`), subtraction (`-`), multiplication (`*`), and division (`/`)[cite: 30].
+* [cite_start]**Basic Arithmetic Engine:** Automatically detects and extracts numbers from natural language to compute operations like addition (`+`), subtraction (`-`), multiplication (`*`), and division (`/`)
 * **Background Threading Engine:** Runs the rule-matching processor on a separate, background daemon thread, ensuring the desktop application never freezes or becomes unresponsive during computation.
 * [cite_start]**Persistent Conversation History Logging:** Automatically logs and appends every interaction with an exact date and timestamp to a local text file (`chat_history_log.txt`).
 
